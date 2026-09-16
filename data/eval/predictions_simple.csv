@@ -1,0 +1,215 @@
+id,pred_intent,pred_confidence,pred_escalate,pred_escalate_reason,pred_reply
+1,praise_or_gratitude,0.9444179542010839,False,,"@477385 Hey! Fingers crossed we'll be able to have it soon, but there's info about Spotify content here: https://t.co/0i8GpimuDa /MG"
+2,playback_technical_issue,0.4592049414517212,False,,"@268629 Hi Tyler! We'd love to have them on Spotify, and hopefully we will in the future. Check this out: https://t.co/MEjmIRL2eB /TR"
+3,login_account_access,0.7979485531349433,True,intent requires account/payment access,@659244 Hey Olivia! We're here to help. Can you DM us your account's email address? We'll take a look under the hood /AN https://t.co/ldFdZRiNAt
+4,account_billing,0.519273562921614,True,intent requires account/payment access,@745343 Hey there! You can change your payment details for Spotify using the steps here: https://t.co/3lVe0lJyKz. Let us know if you have any other questions /LM
+5,feature_request_or_limitation,0.5661992979908763,False,,"@405277 Hi, help's arrived! Can you let us know your device's model, OS, and Spotify version? We'll see what we can suggest /DV"
+6,content_availability,0.9780361902509225,False,,"@191285 Hi! Fingers crossed we'll be able to have it in your country soon, but there's info about Spotify content here: https://t.co/0i8GpimuDa /GT"
+7,account_billing,0.5375832824222857,True,intent requires account/payment access,"@360674 1: Hey Barry! We'll help out, don't worry. We'd suggest deleting your previous tweet as it contains your personal account details."
+8,account_billing,0.8766638245678429,True,intent requires account/payment access,@723981 Hi Evan. Could you send us a DM with your account's email address? We'll take a look backstage /DR https://t.co/ldFdZRiNAt
+9,account_billing,0.9600395473117879,True,intent requires account/payment access,@170538 Hi there! Can you DM us your account's email address or username? We'll take a look backstage /NQ https://t.co/ldFdZRiNAt
+10,login_account_access,0.9739860928297918,True,intent requires account/payment access,"@629770 Hey Adam, we're sorry to hear that! Can you DM us your account's username and email address? We'll take a look backstage /JX https://t.co/ldFdZRiNAt"
+11,account_billing,0.9600194086867235,True,intent requires account/payment access,@644028 Hi there. We've just sent a DM your way. Let's carry on chatting there /QI
+12,login_account_access,0.4631351591244018,True,intent requires account/payment access,"@539925 Hey Eka! We can help out in English via Twitter, but we also offer Indonesian language support via email at https://t.co/ZgU70TbP8M /ME"
+13,login_account_access,0.926582272096758,True,intent requires account/payment access,"@322563 Hi, help's arrived! Can you DM us your account's email address? We'll take a look backstage /DV https://t.co/ldFdZRiNAt"
+14,playback_technical_issue,0.3126877955975625,False,,@660202 2: There's currently a 10k limit in Your Music (Songs + Albums + Artists). More info here: https://t.co/59ABtm5Ftl /MU
+15,playback_technical_issue,0.762090943558305,False,,@205289 Hey John! What Spotify version are you using? We'll see what we can suggest /BH
+16,praise_or_gratitude,0.8583612965944487,False,,@392151 Hey! Can you let us know what's happening exactly? We'll keep an eye out for your message /RC
+17,praise_or_gratitude,0.8349378504563372,False,,"@541791 Hey! Our Curation team are independent &amp; use taste, data, research, and trends to create playlists, but we’ll pass on your suggestion /JE"
+18,redirect_other_team,0.2652767424919111,False,,"@806970 Hey. We've made a few tweaks backstage, so this should now be fixed up. Let us know if not! /CP"
+19,login_account_access,0.8664186143299141,True,intent requires account/payment access,"@139562 Hey Kindal, help's arrived! Can you shoot us over a DM with a screenshot of the error message you're receiving? We'll check things out backstage /DI https://t.co/ldFdZRiNAt"
+20,login_account_access,0.5487484993668197,True,intent requires account/payment access,@405041 Could you send us a DM with your account's username or email address? We'll take a look under the hood 🔍 /DB https://t.co/ldFdZRiNAt
+21,playback_technical_issue,0.4494188207055572,False,,"@644353 2: though so you can show up as a monthly listener in their pages. Hopefully, your friends will do too ✌️ /GS"
+22,praise_or_gratitude,0.7405024309014312,False,,@178315 Hey there! We'd love to help. Can you let us know what's happening exactly? /RC
+23,account_billing,0.37789220102674104,True,intent requires account/payment access,@600100 Hey Shawnie! Could you send us a DM with your account's email address? We'll take a look backstage /FR https://t.co/ldFdZRiNAt
+24,playback_technical_issue,0.34671328250528255,False,,@452220 Hey there! This is part of our Free service on mobile. More info here: https://t.co/Uv9kyGcsCc /SU
+25,feature_request_or_limitation,0.7677114412088858,False,,@622028 Hey Thomas! It's currently not possible to change a username. Could you DM us your username or email address? We'd like to share something there /PL https://t.co/ldFdZRiNAt
+26,redirect_other_team,0.33012342775525105,False,,"@291831 Hi! Yes, don’t worry, we can help. What’s happening exactly? Can you let us know the device/OS you’re using? /DR"
+27,account_billing,0.48113640369265953,True,intent requires account/payment access,@608701 Hey Kevin! Could you send us a DM with your account's email address or username? We'll take a look backstage /LO https://t.co/ldFdZRiNAt
+28,praise_or_gratitude,0.9214376316225962,False,,"@260315 Hey Horácio, you've made us blush! We made you something to let you know how we feel: https://t.co/LSH0SBxSPM 🙂 /TB"
+29,login_account_access,0.8963251598400493,True,intent requires account/payment access,"@777230 Hey there, help's here! Could you DM us your account's email address and username? We'll take a look backstage /CG https://t.co/ldFdZRiNAt"
+30,login_account_access,0.9820137630781278,True,intent requires account/payment access,@486470 We've just sent you a bit more info over DM. We'll carry on helping out there 🙂 /CG
+31,account_billing,0.4310151819015642,True,intent requires account/payment access,@480394 Hey there! We've just sent a DM your way. Let's carry on chatting there /MT
+32,login_account_access,0.45408262177839465,True,intent requires account/payment access,"@641351 Hey Kyle! This isn't currently possible, but you can show your support for the idea on our Community: https://t.co/oGDLtirXki /KL"
+33,feature_request_or_limitation,0.8583624315079895,False,,"@559205 Hey there! Fingers crossed we'll be able to have it soon, but there's info about Spotify content here: https://t.co/0i8Gpi4TeA /MT"
+34,playback_technical_issue,0.5281724924371,False,,@551599 Hey there! Check out the steps under “Downloads unexpectedly removed” at https://t.co/38J7tFlIBF. They should help with this 🙂 /CG
+35,login_account_access,0.8656925867073194,True,intent requires account/payment access,@608998 Hey Lucinda! We’re sorry to hear that. Check out https://t.co/QHn3ok8y2n for what to do next. Let us know if you have other questions /KM
+36,playback_technical_issue,0.4331423358212564,False,,"@807995 Hey, thanks for the report! We had a little hiccup earlier, but everything should be running just fine now /JS"
+37,feature_request_or_limitation,0.5066699773514922,False,,"@354463 Hey there! Thanks for the feedback. Don't worry, we'll pass on the suggestion onto the relevant team /PB"
+38,feature_request_or_limitation,0.6189762669433461,False,,"@160725 Hey there, help's here! Just to check, are you receiving any error codes when trying to play their music? Keep us posted /CG"
+39,playback_technical_issue,0.8000629377147088,False,,"@191285 Hey! We can help out in English via Twitter, but we also have Thai support via email at https://t.co/ZgU70TbP8M /MU"
+40,account_billing,0.5570044255177989,True,intent requires account/payment access,"@585761 Hey there, help's here! Can you DM us your account's email address and username? We'll take a look backstage 🙂 /CG https://t.co/ldFdZRiNAt"
+41,login_account_access,0.9083354710257012,True,intent requires account/payment access,"@272397 Hey Andy, that doesn't sound right! Can you send us a screenshot of any error messages you're getting? We'll see what we can suggest /JE"
+42,playback_technical_issue,0.5232315239806798,False,,@561762 Hi there! Sorry to hear you feel that way. Can you let us know what's happening exactly? Is your Spotify misbehaving? We'd love to help /LP
+43,login_account_access,0.6710175754141104,True,intent requires account/payment access,@602239 Hey Brenda! We're here to help. Can you DM us your account's email address? We'll take a look under the hood /AN https://t.co/ldFdZRiNAt
+44,playback_technical_issue,0.8387507234597708,False,,"@557801 Hi! Thanks for your feedback - we'll pass it on. For now, check out https://t.co/zgnxs5kPEu if you haven't had a subscription before /AU"
+45,playback_technical_issue,0.7720170506037767,False,,@618986 2: They should help with this. We're here for you if there's anything else /YM
+46,playback_technical_issue,0.27049158278598556,False,,@449502 Hi Saphira! Could you let us know more details on what you're looking for? We'll take a look for you /NJ
+47,feature_request_or_limitation,0.8977126822698883,False,,"@144986 Hey Ben! Right now, there's a download limit of 3,333 tracks on 3 separate devices. We have more info here: https://t.co/WDXVuJV0dh /NS"
+48,praise_or_gratitude,0.2126755433556416,False,,"@136857 Hey Tommy! We just sent you a reply to your DM, we'll continue assisting you there /TF"
+49,account_billing,0.6755415551634565,True,intent requires account/payment access,@255074 Hey! The cavalry's here. Can you DM us your account's username or email address? We'll take a look under the hood /JS https://t.co/ldFdZRiNAt
+50,account_billing,0.7397697927795334,True,intent requires account/payment access,@175425 Hi! We've just replied to your DM. We'll carry on helping there /MQ
+51,content_availability,0.2822197299729344,False,,@251274 Hi Mikhail! Can you send us the Album Link? Just tap the three dots &gt; Share &gt; Copy Link. We'll check it out /YM
+52,content_availability,0.5087354934862143,False,,"@741003 Hey Monica! This isn’t possible right now, but you can add your vote here to help make it happen: https://t.co/fDfdWqd3CO. For anything else, just give us a shout /QI"
+53,praise_or_gratitude,0.8903997157620948,False,,@434163 No worries. Feel free to tweet us if there's anything else. https://t.co/uEkAlnxbzn /GK
+54,content_availability,0.8312114625321776,False,,"@607934 Hi there. Sometimes content becomes unavailable due to licensing. More info at https://t.co/YlV1IAXwsi. Any other questions, just shout /LM"
+55,praise_or_gratitude,0.9162309128512283,False,,@664632 Thanks for the feedback Colton! It's music to our ears 🎶 /JI
+56,playback_technical_issue,0.5769905683926517,False,,"@278000 Hey! Don't worry, we're on it. Our developers are looking into this, and we'll keep everyone updated /RV"
+57,content_availability,0.2942435006712462,False,,@446330 Nice idea! It's definitely something for the team to consider and we'll make sure it reaches them /DF
+58,account_billing,0.7025185270792347,True,intent requires account/payment access,"@766422 Hey Michele, help's here. You can disable the Spotify Connect function by putting the Spotify app in Offline mode from within the Spotify Settings screen. Check out this info to learn more about Spotify Connect: https://t.co/BipzmPk7mt. Let us know how it goes /LX"
+59,playback_technical_issue,0.31675177672952887,False,,@645748 Hey Shevon! Thanks for the kind words 🙂 Give us a shout if you ever need us again. We'd be... https://t.co/LgAM6ky9Vv /KB
+60,praise_or_gratitude,0.3951267869276917,False,,"@253500 Hi there! Fingers crossed we'll be able to have it soon, but there's info about Spotify content here: https://t.co/1dgftcFtzc /DD"
+61,praise_or_gratitude,0.361289059910939,False,,@665883 Hey! The cavalry's here. Could you DM us your account's email address? We'll take a look under the hood /KB https://t.co/ldFdZRiNAt
+62,praise_or_gratitude,0.31460194322567625,False,,"@304512 Hey there! Just to check, is your Spotify misbehaving? Can you let us know what's happening exactly? We'd love to help out /RI"
+63,account_billing,0.8054519591672017,True,intent requires account/payment access,@130774 Hey Imran. Can you send us a DM with your account's email address or username? We'll take a look behind the scenes /AY https://t.co/ldFdZRiNAt
+64,playback_technical_issue,0.3471471370203953,False,,"@191953 Hi Claire! Don't worry, we'll figure this out. Can you let us know what device and version of Spotify you're using? /DR"
+65,playback_technical_issue,0.9031910047218048,False,,"@591366 Hey LeRon! This isn't possible right now, but you can show your support for the idea on our Community: https://t.co/oGDLtirXki /DQ"
+66,account_billing,0.5997120232489389,True,intent requires account/payment access,@222911 Hi there! Can you DM us your account's email address or username? We'll see what we can suggest /RH https://t.co/ldFdZRiNAt
+67,login_account_access,0.7709205911433817,True,intent requires account/payment access,"@149953 Hey, thanks for the heads up. Can you let us know the make/model of your device and the exact Spotify version you're using? /AY"
+68,feature_request_or_limitation,0.5253568103092078,False,,@282721 Hi Cameron! We've just sent a DM your way. Let's carry on chatting there /QI
+69,content_availability,0.9953925972297843,False,,@500625 Hey there! We're launching in new countries as often as possible. Be sure to add your email at https://t.co/X8DVSX9QgM /TB
+70,redirect_other_team,0.7447044904670848,False,,"@269788 Hey Sergiu, we'll take a look at this with you. Are you using Wi-Fi or 3G/4G? What device are you using? DM us the details and we'll get to work on helping you out /J https://t.co/ldFdZRiNAt"
+71,login_account_access,0.2923433697826269,True,intent requires account/payment access,@679794 Hey! In 3 days you should receive an email containing a Star Code you can redeem at https://t.co/2i8f3UftFG for 125 Stars /CB
+72,content_error_report,0.9531933287690846,False,,@376470 Hey Scott! We'll get this reported. Great detective work. https://t.co/LpsmyUtme0 /AU
+73,account_billing,0.20440745340075275,True,intent requires account/payment access,"@664018 Hey there, help's here! Could you DM us your account's email address and username? We'll take a look backstage /CG https://t.co/ldFdZRiNAt"
+74,praise_or_gratitude,0.8201628155886811,False,,@807311 Hey Dina! Everything should be running smoothly now. Let us know if you're still getting issues /GS
+75,account_billing,0.2393667310243405,True,intent requires account/payment access,@217859 Hey Ashwin! We're launching in new countries as often as possible. Be sure to add your email at https://t.co/X8DVSX9QgM /MX
+76,account_billing,0.2686562148801743,True,intent requires account/payment access,"@471805 Hey there, help's here! What’s happening exactly? We'll be glad to lend a hand /TB"
+77,praise_or_gratitude,0.6808198410421913,False,,@292184 Hey! We've just sent a DM your way. Let's carry on chatting there /NQ
+78,praise_or_gratitude,0.5518007096265646,False,,"@237289 Hi Peter! We didn't do something wrong, did we? https://t.co/SNXVal9vTi Could you DM us your account's email address? We'll take a look backstage /WW https://t.co/ldFdZRiNAt"
+79,login_account_access,0.7539029988389078,True,intent requires account/payment access,"@139562 Hey Kindal, help's arrived! Can you shoot us over a DM with a screenshot of the error message you're receiving? We'll check things out backstage /DI https://t.co/ldFdZRiNAt"
+80,praise_or_gratitude,0.6682307990233328,False,,@691536 Hey Simon. What's happening exactly? Could you also let us know the iOS device and Spotify version you're using? /AY
+81,content_availability,0.8602371073612343,False,,@458868 Hey Cassie! Sometimes content gets temporarily removed because of licensing changes. Hopefully we'll have it available again soon /KB
+82,praise_or_gratitude,0.8651620860100122,False,,@676310 Hi! We've just sent you a DM 🙂 /AR
+83,login_account_access,0.7537872266678346,True,intent requires account/payment access,@717691 Hey Marsha! That doesn't sound good. Can you send us a DM with your account's email address? Are you getting any specific error messages while logging in to your account? We'll take a look under the hood /CE https://t.co/ldFdZRiNAt
+84,feature_request_or_limitation,0.49332978936285876,False,,"@571761 Hi there, the cavalry's here! Can you DM us your account’s email address and username? We'd love to help out /JI https://t.co/ldFdZRiNAt"
+85,login_account_access,0.866480306074841,True,intent requires account/payment access,@298321 Hey Kyle! Help's here. Can you DM us your account's email address? We'll take a look backstage /DD https://t.co/ldFdZRiNAt
+86,content_error_report,0.8062144648766865,False,,"@270295 Hey! You can contact our Artist team here: https://t.co/p1wbtdELHu. If you've reached out, DM us your email address &amp; we'll chase it up /DF"
+87,playback_technical_issue,0.44627989807019175,False,,@697057 Hi there! Sorry to hear you feel that way. Can you tell us more about what's happening with your web player? We'll take a look backstage /XF
+88,account_billing,0.8674978427515856,True,intent requires account/payment access,"@538510 Hey there, help's here! Could you tell us more about what's going on and DM us your username and email address? Keep us posted /JQ https://t.co/ldFdZRiNAt"
+89,account_billing,0.5109023220163097,True,intent requires account/payment access,"@489180 Fingers crossed we'll be able to have it soon, but there's info about Spotify content here: https://t.co/0i8GpimuDa /DF"
+90,praise_or_gratitude,0.9716041761913758,False,,"@245362 Hey Demetria! Rest assured that we're here for your friend and will help get any issue fixed. If you also need help with your account or app, give us a shout /QI"
+91,redirect_other_team,0.31908792437968103,False,,@463715 Hey! What country is your account set to? We'll check things out /AY
+92,playback_technical_issue,0.30562014576318913,False,,"@610679 Hey, that doesn't sound good! Did the app crash at any point during the 30 minutes? That can cause the ad-free time to reset /JN"
+93,playback_technical_issue,0.8511416890098966,False,,@313093 Hey there! Is this happening with your downloaded playlists or all songs synced offline? Let us know /TF
+94,login_account_access,0.9880114889382616,True,intent requires account/payment access,"@152535 Hey Marcus, help's arrived! Could you DM us your username and email address? We'll check it out 🔍 /JY https://t.co/ldFdZRiNAt"
+95,feature_request_or_limitation,0.5786693522430891,False,,"@500247 Hey! Don't worry, we're on it. Our developers are looking into this, and we'll keep everyone updated /DF"
+96,feature_request_or_limitation,0.8483636521498071,False,,@173800 Hey! There's now an option clear your play queue on the app. There's info on this at https://t.co/l6anFcUL6p /RC
+97,account_billing,0.820291183746312,True,intent requires account/payment access,"@584695 Hey Kate, help's here! Can you DM us your account's email address and username? We'll take a look backstage /MQ https://t.co/ldFdZRiNAt"
+98,feature_request_or_limitation,0.5981982422855555,False,,@498258 Hi there! Can you DM us your account's email address or username? We'll take a look backstage /GT https://t.co/ldFdZRiNAt
+99,content_availability,0.532706418442769,False,,@270300 Hey! Can you try the steps here for us: https://t.co/EqisDMwZAT? They could help with this /L
+100,content_error_report,0.7077450015128058,False,,@718037 Hi there. Thanks for bringing this up. We'll get this reported. Great detective work! https://t.co/LpsmyUtme0 /JU
+101,playback_technical_issue,0.41012100744548285,False,,@659052 Hi Louis! Thanks for letting us know. We'll pass this on to the right team. Great detective work.. https://t.co/LpsmyUtme0 /JI
+102,feature_request_or_limitation,0.9886350405249665,False,,"@604814 Hey there! Fingers crossed we'll be able to have it soon, but there's info about Spotify content here: https://t.co/0i8GpimuDa /AU"
+103,account_billing,0.8043175929443385,True,intent requires account/payment access,"@591970 Hey, help's here! Could you send us a DM with your account's email address or username? We'll take a look backstage /CO https://t.co/ldFdZRiNAt"
+104,login_account_access,0.8415908055168295,True,intent requires account/payment access,"@590116 Hey Annie, help's here! Could you DM us your account's email address or send us a link to your Facebook page? We'll see what we can do /GU https://t.co/ldFdZRiNAt"
+105,playback_technical_issue,0.45558407561189324,False,,@504079 2: There's more info here: https://t.co/vHqjftXuQ0. Let us know if you need anything else /NQ
+106,redirect_other_team,0.2564687012484262,False,,"@548957 We hear you, Jessica! Your feedback has been noted and passed onto the team 👊🏼 /KL"
+107,feature_request_or_limitation,0.7552863455425154,False,,"@295725 Hey Lauren! Right now, there's a download limit of 3,333 tracks on 3 separate devices. We have more info here: https://t.co/WDXVuJV0dh /KL"
+108,redirect_other_team,0.7832660108814721,False,,"@275427 Hey, thanks for the heads up! Can you send us the Album Link? Just tap the three dots &gt; Share &gt; Copy Link /AY"
+109,praise_or_gratitude,0.9067367053126242,False,,"@140450 Hi there! ""Reputation"" isn't available to stream just yet – stay tuned! For now, check out the singles: https://t.co/4AyfFuEMpb 🙂 /JI"
+110,account_billing,0.6430736244128058,True,intent requires account/payment access,@428343 Hey Stan! Could you DM us your account's email address/username? We'll take a look /C https://t.co/ldFdZRiNAt
+111,playback_technical_issue,0.8909790072060354,False,,"@669370 Hope you give us another chance. There are various reasons why this could happen. If you have cache-clearing apps, it might desync your music (so it's best to avoid those). We'd also suggest keeping your app updated. Hope this helps /MU"
+112,feature_request_or_limitation,0.7394239999711463,False,,@306504 Hey Thom! There's currently a 10k limit in Your Music (Songs + Albums + Artists). More info here: https://t.co/59ABtm5Ftl /RA
+113,login_account_access,0.4599322502293174,True,intent requires account/payment access,@183979 Hi Diana! Help's here. Could you DM us your email address? We'll take a look backstage /AU https://t.co/ldFdZRiNAt
+114,login_account_access,0.47972880689530695,True,intent requires account/payment access,"@461720 Hi Sara, we've just sent you a bit more info over DM. We'll carry on helping out there /JQ"
+115,content_availability,0.9131331265417143,False,,@653036 Hi there. We're launching regularly in countries around the world. Sign up here to be first to hear: https://t.co/XDwWzj7cLP /LM
+116,account_billing,0.921863155599074,True,intent requires account/payment access,@402466 Hey Mark! Can you DM us your account's username or email address? We'll take a look under the hood /RS https://t.co/ldFdZRiNAt
+117,content_availability,0.9564139712596272,False,,@750651 Hey there! We're launching in new countries as often as possible. Be sure to add your email at https://t.co/X8DVSX9QgM /GK
+118,content_error_report,0.5453120741790527,False,,@155526 Hey there! Could you let us know the device/OS you're using? Keep us posted /DF
+119,feature_request_or_limitation,0.9861574679564657,False,,@407940 2: We'll make sure to pass your feedback about this /RP
+120,account_billing,0.24866908102226076,True,intent requires account/payment access,@736073 Hey Eugenio! Sometimes content gets temporarily removed because of licensing changes. Hopefully we'll have his music available again soon 🙂 /JT
+121,playback_technical_issue,0.7425690835568155,False,,@808004 Hey Gio! Everything should be running smoothly now. Let us know if you're getting issues /GS
+122,playback_technical_issue,0.6406425970245728,False,,@765729 Hey there! We’ve recently made some improvements to our shuffle algorithm. We’d love to hear your feedback here: https://t.co/T3vZnSL3od /PB
+123,feature_request_or_limitation,0.9692057516159199,False,,@390104 2: https://t.co/WSjJgGAmPy. Drop us a tweet if you have other questions /MT
+124,playback_technical_issue,0.7684439303971988,False,,@361803 Hey Jason! Can you DM us your account's email address or username? We'll check backstage /AR https://t.co/ldFdZRiNAt
+125,login_account_access,0.8322418947299244,True,intent requires account/payment access,"@457022 Hey John, help's here! Could you DM us your account's username and email address? We'll take a look /DH https://t.co/ldFdZRiNAt"
+126,redirect_other_team,0.815529411060161,False,,@808056 Hey Char! Everything should be running smoothly now. Let us know if this is still happening /FR
+127,content_availability,0.9724878768059189,False,,@647473 Hey there! Is this the song you're looking for: https://t.co/e1vz2Onagm? /FR
+128,feature_request_or_limitation,0.24659227258714758,False,,"@129021 Hey Daniel! Thanks for your feedback. To reduce the number of Suggested Tracks you get, try adding more artists into your playlists /CH"
+129,feature_request_or_limitation,0.8307646138745106,False,,@184084 Hi Andy! There's currently a 10k limit in Your Music (Songs + Albums + Artists). More info here: https://t.co/59ABtm5Ftl /AU
+130,praise_or_gratitude,0.6670412824879466,False,,@142703 Hey there! Can you give us more info on what's happening exactly? We'll be right here waiting /PB
+131,feature_request_or_limitation,0.9974614467260413,False,,"@798418 Hey there! We’ve got some info about mixtapes here: https://t.co/MEjmIRL2eB. If there's anything else you need, just give us a shout 🙂 /KC"
+132,content_error_report,0.9567300818508282,False,,"@220664 Hey, thanks. We've already reported this. Great detective work! https://t.co/LpsmyUtme0 /PL"
+133,account_billing,0.6115114124749197,True,intent requires account/payment access,@719716 Hey there! Can you DM us your account's username or email address? We'll take a look backstage /AP https://t.co/ldFdZRiNAt
+134,playback_technical_issue,0.8695526925449565,False,,@313093 Hey there! Is this happening with your downloaded playlists or all songs synced offline? Let us know /TF
+135,playback_technical_issue,0.3942347878639172,False,,"@732084 Hey Fernando, we understand - we’re working on it as we speak. Stay tuned! /JQ"
+136,playback_technical_issue,0.3096274268050277,False,,"@551247 Hey Stephanie, that's odd! Can you let us know the device, Android, and Spotify version you're using? We'll see what we can suggest /JE"
+137,feature_request_or_limitation,0.6998677464922223,False,,"@806626 Hey Timothy! We had a little hiccup earlier, but everything should be running as smooth as Smooth Jazz now /JE"
+138,login_account_access,0.988627286215323,True,intent requires account/payment access,"@739616 Hey Caleb, help's here! Can you DM us your account's email address? We'll take a look under the hood /MV https://t.co/ldFdZRiNAt"
+139,redirect_other_team,0.5946930550513045,False,,@378822 Hey there! Let's try clearing your browser's cache and cookies or using an incognito window. Does that help? /BH
+140,account_billing,0.6863027005996641,True,intent requires account/payment access,"@593224 Hi Kevin, help's here! Can you DM us your account's email address? We'll take a look under the hood and see what we can suggest /NY https://t.co/ldFdZRiNAt"
+141,account_billing,0.811245197794294,True,intent requires account/payment access,@823514 Can you send us a DM with your account's email address? We'll check things out /JO https://t.co/ldFdZRiNAt
+142,content_error_report,0.9657946285914962,False,,"@220664 Hey, thanks. We've already reported this. Great detective work! https://t.co/LpsmyUtme0 /PL"
+143,praise_or_gratitude,0.9647331230932239,False,,@477968 Hey there! Can you DM us he account's email address? We'll take a look /RB https://t.co/ldFdZRiNAt
+144,playback_technical_issue,0.3981037689563701,False,,@184259 Hey there! Can you let us know your device and the versions of iOS and Spotify you're running? We'll see what we can suggest /AG
+145,account_billing,0.6253613793885343,True,intent requires account/payment access,@815341 Hi! We've just responded to you with a bit more info over DM. We'll carry on helping out there /TR
+146,redirect_other_team,0.5720087720353464,False,,"@549911 Hey Sean! We don't have any news to share about it right now, but you can show your support for the idea here: https://t.co/248j19QkbF /YM"
+147,playback_technical_issue,0.7788117799091899,False,,@185395 Hey there! Could you send us a DM with your account's email address or username? We'll take a look backstage /MA https://t.co/ldFdZRiNAt
+148,feature_request_or_limitation,0.683927908007127,False,,"@559205 Hey there! Fingers crossed we'll be able to have it soon, but there's info about Spotify content here: https://t.co/0i8Gpi4TeA /MT"
+149,feature_request_or_limitation,0.6809639840626004,False,,"@664969 Hey! We’d love to have all of her stuff available, but we have some info about content here: https://t.co/0i8GpimuDa /NQ"
+150,content_availability,0.7174150516147099,False,,@364866 Hey there! Licensing agreements can affect music availability. We have more info here: https://t.co/VMrgnGpB4G /NS
+151,praise_or_gratitude,0.7902829833396169,False,,@389696 @115888 Hey John! We've just sent you a bit more info over DM. We'll carry on helping out there 🙂 /TB
+152,content_availability,0.724641143893137,False,,"@559239 Hey Marla! Fingers crossed we'll be able to have it soon, but there's info about Spotify content here: https://t.co/0i8GpimuDa /NS"
+153,praise_or_gratitude,0.8391816755407895,True,escalation keyword matched,@496718 Hi there! We've just sent a DM your way. Let's carry on chatting there /NJ
+154,redirect_other_team,0.433269510383376,False,,"@152992 We hear you 🎧 Rest assured, your feedback will be passed on to the right folks /DF"
+155,playback_technical_issue,0.30581851232854534,False,,"@160405 Hey there! Unfortunately, we're unable to recover your previous Discover Weekly. We'd suggest saving your favorites moving forward /LP"
+156,playback_technical_issue,0.3589269383149323,False,,@597767 Hey! We'd be happy to help out. What's happening exactly? Can you DM us your account's email address or username? /NQ https://t.co/ldFdZRiNAt
+157,account_billing,0.22028595769604112,True,intent requires account/payment access,@655890 Hey Nicoleta! We're launching in new countries as often as possible. Be sure to add your email at https://t.co/X8DVSX9QgM /JX
+158,login_account_access,0.7907830118932095,True,intent requires account/payment access,"@778598 Hi there. Can you let us know what country you're currently in? Could you also try using a different device, browser, or an incognito window? Let us know how it plays out /LM"
+159,praise_or_gratitude,0.9723616810298443,False,,@676310 Hi! We've just sent you a DM 🙂 /AR
+160,playback_technical_issue,0.24095820261119322,False,,@293040 Hey! We've just replied to your DM. Check your inbox /RH
+161,playback_technical_issue,0.23916443378901403,False,,@748242 Hey Dan! Can you DM us your account's username and email address? We'll see what we can suggest /JL https://t.co/ldFdZRiNAt
+162,login_account_access,0.23936904013513793,True,intent requires account/payment access,"@232358 Hey Kalie, we'd love to look into this for you. Can you send us your account's username/email address? We'll check backstage /JP"
+163,feature_request_or_limitation,0.8179830664365314,False,,"@798418 Hey there! We’ve got some info about mixtapes here: https://t.co/MEjmIRL2eB. If there's anything else you need, just give us a shout 🙂 /KC"
+164,content_availability,0.39523394436631687,False,,@153614 Awesome! We'll be here waiting. Keep us posted /QI
+165,account_billing,0.5960228059985878,True,intent requires account/payment access,"@539757 Hey, that's not cool! Can you DM us your account's username or email address? We'll take a look under the hood /JM https://t.co/ldFdZRiNAt"
+166,playback_technical_issue,0.27490828846382126,False,,"@549277 Hey Ashley, pre-sale codes are being sent out by email to some of Majid Jordan's biggest fans on Spotify. Hopefully you're one of them! /TF"
+167,feature_request_or_limitation,0.6216787735554953,False,,@809573 Hey Nate! We'd like to share more info to you via DM. Could you send us one? /RH https://t.co/ldFdZRiNAt
+168,playback_technical_issue,0.3790009469406355,False,,"@677916 Hi there! We don't have any info on this right now, but keep an eye out for any updates. If you have any questions, just give us a shout /XF"
+169,login_account_access,0.655151100674895,True,intent requires account/payment access,"@149098 Hey there! We don't offer official support for the version of the app for Linux, but we'll see what we can do to help. Can you fire over your account's email address or username via DM? We'll take a look /AY https://t.co/ldFdZRiNAt"
+170,praise_or_gratitude,0.8565517362868793,False,,@184324 Hi there. We've just sent a DM your way. Let's carry on chatting there /JU
+171,playback_technical_issue,0.8354877639844166,False,,"@548497 Hey, sorry to hear that! Check out the steps under “Downloads unexpectedly removed” at https://t.co/38J7tFlIBF. It should help with this /MU"
+172,praise_or_gratitude,0.8344223853392098,False,,@500616 Hey Kevin! Could you DM us your account's email address or username? We'll take a look under the hood /AY https://t.co/ldFdZRiNAt
+173,account_billing,0.5808586726574166,True,intent requires account/payment access,@363642 Hi there! Can you DM us your account's email address or username? We'll take a look backstage /NQ https://t.co/ldFdZRiNAt
+174,login_account_access,0.8457355247073245,True,intent requires account/payment access,"@816410 Hey Samra, we're here to help! Can you try restarting your computer? It would also be best to disable your VPN as we don't officially support VPNs. Let us know how it goes /JP"
+175,praise_or_gratitude,0.42506131666661134,False,,"@739603 Hi there! Fingers crossed we'll be able to have it soon, but there's info about Spotify content here: https://t.co/0i8GpimuDa /AU"
+176,login_account_access,0.9471750130879719,True,intent requires account/payment access,"@348222 Hey, help's here! Can you DM us your account's username or email address? We'll check backstage /AP https://t.co/ldFdZRiNAt"
+177,playback_technical_issue,0.6425813389554007,False,,"@398135 Hi Anna. For your security, we'd recommend deleting your post with the screenshot as it contains sensitive info. You can DM us instead /NY https://t.co/ldFdZRiNAt"
+178,account_billing,0.6707073828765054,True,intent requires account/payment access,"@810487 Hi there. Don't worry, help's here. We suggest deleting your previous tweet as it contains some payment info. Can you DM it to us instead using the link below? /JU https://t.co/ldFdZRiNAt"
+179,content_availability,0.9131142215715221,False,,"@559239 Hey Marla! Fingers crossed we'll be able to have it soon, but there's info about Spotify content here: https://t.co/0i8GpimuDa /NS"
+180,playback_technical_issue,0.19715866297640527,False,,@582409 Hey Marcela! We hear you 🎧 Rest assured we'll let the right team know it's something you'd like to see /AN
+181,content_availability,0.8105441514446804,False,,@653036 Hi there. We're launching regularly in countries around the world. Sign up here to be first to hear: https://t.co/XDwWzj7cLP /LM
+182,playback_technical_issue,0.29925440773538414,False,,"@504653 Hey Andy, help's here! Can you DM us your account's email address? We'll check backstage /GK https://t.co/ldFdZRiNAt"
+183,redirect_other_team,0.7834637460265199,False,,@534354 Hey there. Thanks for reaching out! There's some info on Spotify content here: https://t.co/0i8GpimuDa. Let us know if you have any other questions /NY
+184,redirect_other_team,0.7906201707313265,False,,"@275427 Hey, thanks for the heads up! Can you send us the Album Link? Just tap the three dots &gt; Share &gt; Copy Link /AY"
+185,praise_or_gratitude,0.9168581167547917,False,,"@533841 Hey there! We've just replied to your DM, we'll carry on helping there /JX"
+186,feature_request_or_limitation,0.6042536507070512,False,,@415852 Hi Troy! We've just sent a DM your way. Let's carry on chatting there 🙂 /MG
+187,feature_request_or_limitation,0.5063201614398356,False,,"@261026 Hi there! It seems these are the Suggested Tracks which are part of our Free service in mobile. We have more info here: https://t.co/FuwBNmDW0P. Any questions, give us a shout /PB"
+188,praise_or_gratitude,0.2103132735551744,False,,@810985 Hey there! We're launching in new countries as often as possible. Be sure to add your email at https://t.co/X8DVSX9QgM. Hope this info helps /GK
+189,account_billing,0.7217126904673711,True,intent requires account/payment access,@474389 Hey there! Can you DM us your account's email address? We'll take a look /RB https://t.co/ldFdZRiNAt
+190,account_billing,0.6512676974366961,True,intent requires account/payment access,@153724 @116130 Hi! We've just replied to your DM. We'll carry on helping there /MQ
+191,feature_request_or_limitation,0.9831148133635803,False,,"@664702 Hey! We’d love to have all of his stuff available, but we have some info about content here: https://t.co/0i8GpimuDa /NQ"
+192,feature_request_or_limitation,0.5886442168101538,False,,@128148 Hi there! Can you DM us your account's username or email address? We'll take a look backstage /MC https://t.co/ldFdZRiNAt
+193,praise_or_gratitude,0.5188298793257823,True,escalation keyword matched,@201794 Hey Sharon! Can you DM us your account's email address and username? We'll take a look backstage /SU https://t.co/ldFdZRiNAt
+194,redirect_other_team,0.29660557189804765,False,,"@779249 Hey there! Are you getting any error messages? If so, can you send us a screenshot? We'll take a closer look /PB"
+195,playback_technical_issue,0.22566653439351572,False,,"@600061 Hey Tani! Don't worry, help's here. Can you DM us the email addresses or usernames of all your accounts? We'll take a look backstage /MT https://t.co/ldFdZRiNAt"
+196,playback_technical_issue,0.6987186371872764,False,,@596972 Hey! The cavalry's here. Can you DM us your account's username or email address? We'll take a look under the hood /JS https://t.co/ldFdZRiNAt
+197,redirect_other_team,0.2604615988595975,False,,"@578909 Hey Rick, we hear you. Thanks for the feedback – we appreciate it! We’ll get this passed onto the right team 💚 /RV"
+198,feature_request_or_limitation,0.44094390091278013,False,,"@262212 Hey there! Help's here. Can you let us know the device, Android, and app version you're running? We'll see what we can suggest /PB"
+199,login_account_access,0.26808534708931164,True,intent requires account/payment access,@582062 Hey Mohamed! We can also help here on Twitter. Can you tell us what's happening exactly? We'll see what we can suggest /CH
+200,playback_technical_issue,0.7180040340909252,False,,@372582 Hey there! What's happening exactly? Are you unable to sign up for a Spotify account? Let us know - we'll look into this /SY
+201,account_billing,0.2946398269905925,True,intent requires account/payment access,"@272395 Hey there! We're sorry to hear you're not liking your Recommended Songs. We'll pass on your feedback. We have more info to share here: https://t.co/aGZZKzSM3w. Any other questions, just give us a shout /NG"
+202,playback_technical_issue,0.5593976067820123,False,,"@250589 Hey there! Can you let us know the devices, operating systems, and Spotify versions you're using? We'll see what we can suggest /MT"
+203,login_account_access,0.44223364465047,True,intent requires account/payment access,@807643 Hey Robin! Thanks for letting us know. Everything’s looking good on our end now - are you still having this issue? /CE
+204,feature_request_or_limitation,0.5821037231611217,False,,"@354463 Hey there! Thanks for the feedback. Don't worry, we'll pass on the suggestion onto the relevant team /PB"
+205,account_billing,0.8565662035861022,True,intent requires account/payment access,@467280 Hey! We've just sent you a bit more info over DM. We'll carry on helping out there /NY
+206,praise_or_gratitude,0.7104046326529618,False,,"@600305 Hey there! Fingers crossed we'll be able to have it soon, but there's more info about Spotify content here: https://t.co/0i8GpimuDa /CH"
+207,redirect_other_team,0.638626926240453,False,,@748231 Hey there! Thanks for the feedback – we appreciate it. We’ll get this passed onto the right team /NQ
+208,login_account_access,0.5225402910959124,True,intent requires account/payment access,"@145255 Hey Matt! Fingers crossed we'll be able to have it soon, but there's info about Spotify content here: https://t.co/0i8GpimuDa /AR"
+209,login_account_access,0.9271073580386523,True,intent requires account/payment access,"@511351 Hey Thom! We're afraid this isn't possible now, but you can vote for the idea here https://t.co/SEK4E4gi22 /JP"
+210,praise_or_gratitude,0.7793986523781842,False,,"@569924 Hey Stefanie! Just to check, do you usually listen to music that isn't on your Discover Weekly/listen in a private session? Let us know /ND"
+211,feature_request_or_limitation,0.37553530924377393,False,,"@342994 Hi Eddie. Don't worry, we'll look into this. Can you tell us what exactly is going on? /JU"
+212,account_billing,0.8935342542853032,True,intent requires account/payment access,@170260 Hi! We've just sent you a bit more info over DM. We'll carry on helping out there /DR
+213,playback_technical_issue,0.2760431821575915,False,,"@278414 Hi there! Fingers crossed we'll be able to have it soon, but there's info about Spotify content here: https://t.co/MEjmIRL2eB /WW"
+214,redirect_other_team,0.503772110445365,False,,"@661816 Hi! We don't have any info on this right now, but we'll let the right team know it's something you'd like to see /RB"

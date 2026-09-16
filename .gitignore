@@ -1,0 +1,9 @@
+data/raw/
+data/processed/SpotifyCares_threads.jsonl
+data/processed/spotify_examples.csv
+data/processed/golden_candidates_review.txt
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/

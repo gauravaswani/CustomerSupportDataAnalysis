@@ -1,0 +1,153 @@
+### id=42 judge_score=5.0 escalate=False
+CUSTOMER: @115888 PC app starts right up no problems. Mac app sucks all my power and still doesn't work.
+AGENT_REPLY: Hey! Sorry to hear the Mac app is giving you trouble and draining your power. Could you let us know which macOS version you're running? We'll see what we can suggest to help get this sorted /AD
+HISTORICAL: @519527 Hey! Can you tell us more about what's happening exactly? What OS X and Spotify versions are you using? We'll see what we can suggest /AR
+JUDGE_RATIONALE: The reply correctly identifies the specific platform issue and requests the necessary technical details to begin troubleshooting, maintaining a friendly and helpful tone.
+
+### id=52 judge_score=nan escalate=False
+CUSTOMER: Lottery for Georgia and square space for Georgia https://t.co/tJc2tF6C8v
+AGENT_REPLY: Hey! We're not quite sure what you mean. Could you give us a bit more detail about what's going on so we can help?
+HISTORICAL: @401719 Can you send us a DM with your IP address? You can find that info by heading here: https://t.co/BUAjxvlfBM? We'll take a closer look /NJ https://t.co/ldFdZR1cbT
+JUDGE_RATIONALE: ERROR: Server disconnected without sending a response.
+
+### id=29 judge_score=5.0 escalate=True
+CUSTOMER: @SpotifyCares can't log in with the same log in details i've been using for like 5 years. Seriously, my only option to contact you is through twitter what kind of bull shit customer service is this. At least provide a gd email...
+AGENT_REPLY: Hey! We'd love to help get you back into your account. Could you send us a DM with your account's email address or username? We'll take a look backstage to see what's going on /CG https://t.co/ldFdZRiNAt
+HISTORICAL: @524283 Hey! Sorry for the late response. We're afraid we don't offer telephone support, but we can help via Twitter, email (__email__), and chat. If you'd like us to continue helping out here, just DM us your account's email address. We'll take a look backstage /RA https://t.co/ldFdZRiNAt
+JUDGE_RATIONALE: Escalating this highly frustrated customer to a human agent is the most appropriate action to resolve their login issue securely.
+
+### id=12 judge_score=5.0 escalate=False
+CUSTOMER: @115888 tiap login kok ssh ga bs konek padahal buat online lancar jaya.. 
+kira" knp ya min?
+AGENT_REPLY: Hey! We can help out in English via Twitter, but we also offer Indonesian language support via email at https://t.co/ZgU70TbP8M
+HISTORICAL: @667062 Hey! We can help out in English via Twitter, but we also have Indonesian support via email at https://t.co/ZgU70TbP8M /NQ
+JUDGE_RATIONALE: The draft reply perfectly matches historical resolutions for non-English inquiries, offering the customer the choice of English support on Twitter or Indonesian support via email.
+
+### id=69 judge_score=nan escalate=False
+CUSTOMER: @115888 not available in Pakistan!
+What's the delay? https://t.co/cW2hkNnvLW
+AGENT_REPLY: Hey! We're always working on launching in new countries as often as possible. You can add your email here to be the first to hear any updates for Pakistan: https://t.co/X8DVSX9QgM. Hopefully we'll be with you soon! /TB
+HISTORICAL: @665229 Hey there! We're launching in new countries as often as possible. Be sure to add your email at https://t.co/X8DVSX9QgM /NQ
+JUDGE_RATIONALE: ERROR: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.7-flash\nPlease retry in 46.040802157s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.7-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '46s'}]}}
+
+### id=37 judge_score=5.0 escalate=False
+CUSTOMER: @SpotifyCares I definitely need to contact you. A number or email would be nice.
+AGENT_REPLY: Hey! We don't have a phone number or email support, but we're happy to help you right here. Let us know what's going on, or shoot us a DM with more details so we can look into it. /MC
+HISTORICAL: @351107 Hey We don't offer phone support at this time, but we've just sent a DM your way. Let's carry on chatting there /NQ
+JUDGE_RATIONALE: The reply accurately addresses the user's request for contact info by explaining the lack of phone/email support while providing clear alternatives in a friendly tone.
+
+### id=59 judge_score=nan escalate=False
+CUSTOMER: @115888 USED to be the best streaming service. Now it just glitches and never works 😒
+AGENT_REPLY: Hey! We're sorry to hear you've been running into some glitches lately. We'd love to look into this for you! Could you let us know the device, operating system, and Spotify version you're using? We'll see what we can suggest /KB
+HISTORICAL: @568050 Hey there! What's happening exactly? Can you tell us what device, operating system, and version of Spotify you're using? We'll help out /SY
+JUDGE_RATIONALE: ERROR: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+
+### id=58 judge_score=nan escalate=False
+CUSTOMER: How do I turn of the Automatic renew function for premium?
+@SpotifyCares
+AGENT_REPLY: Hey! Help's here. You can turn off auto-renewal by canceling your Premium subscription on your account page at https://www.spotify.com/account. You'll still have your Premium features until your next billing date! Let us know if you need anything else /GR
+HISTORICAL: @731114 Hi there! You can cancel your Premium subscription anytime by heading to https://t.co/Q1zNbUXR4q. Let us know if you need a hand with this. We're happy to help /JJ
+JUDGE_RATIONALE: ERROR: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+
+### id=55 judge_score=nan escalate=False
+CUSTOMER: @SpotifyCares thanks for the update, looks much nicer when Chromecasting. Got lyrics and a cleaner image. Well done.
+AGENT_REPLY: Hey! Thanks for the kind words. We're so glad to hear you're enjoying the update and the new look on Chromecast! It's music to our ears. If you need anything else, just give us a shout /JI
+HISTORICAL: @331183 Hey Julian! We're glad you like it. If you need us again, just pop a message over. Have a great weekend 🙂 /BH
+JUDGE_RATIONALE: ERROR: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+
+### id=39 judge_score=5.0 escalate=False
+CUSTOMER: sure love how @SpotifyCares deleted +500 downloaded songs overnight :-)
+AGENT_REPLY: Hey! Sorry to hear that. Check out the steps under “Downloads unexpectedly removed” at https://t.co/38J7tFlIBF. They should help with this /GM
+HISTORICAL: @810625 Hey, sorry to hear that! Check out the steps under “Downloads unexpectedly removed” at https://t.co/EidIERWgLX. They should help with this /NS
+JUDGE_RATIONALE: The reply directly and empathetically addresses the user's issue with a standard, actionable troubleshooting link matching brand protocol.
+
+### id=27 judge_score=1.0 escalate=True
+CUSTOMER: @SpotifyCares I sent a help message an hour ago, no reply yet?!? I bought a 3 month gift card and wont let me redeem it.
+AGENT_REPLY: Hey! Sorry for the delay. Could you send us a DM with your account's email address or username and the code you're trying to redeem? We'll check this out for you.
+HISTORICAL: @670053 Hi! We've just sent a DM your way. Let's carry on chatting there /AR
+JUDGE_RATIONALE: The agent failed to draft any public reply to a customer who is already complaining about a lack of response, leaving them without any help or next steps.
+
+### id=10 judge_score=2.0 escalate=True
+CUSTOMER: @SpotifyCares PLEASE help me fix this! I'm locked out of my account someone changed the email address and password.
+AGENT_REPLY: Hey there! We're sorry to hear that. Can you send us a DM with your account's username and the original email address linked to it? We'll take a look backstage for you.
+HISTORICAL: @625881 Hi there! That doesn't sound good. Can you DM us your account's username or email address? We'll take a look under the hood /DN https://t.co/ldFdZRiNAt
+JUDGE_RATIONALE: While escalating a compromised account is the right decision, failing to send a reply directing the customer to DM leaves them without clear next steps.
+
+### id=20 judge_score=4.0 escalate=False
+CUSTOMER: Changed password, And it's still happening?? Help please! This is driving me nuts! https://t.co/NfYGNifuKc
+AGENT_REPLY: Hey! Could you give us a bit more context on what's happening? Let us know what issue you're experiencing and we'll see how we can help.
+HISTORICAL: @159458 Hi Harriette, help's arrived! Can you DM us with your account's username and email address? We'll see what's going on /WW https://t.co/ldFdZRiNAt
+JUDGE_RATIONALE: The draft reply is friendly and safe, though it could be improved by inviting the customer to DM with their account details to investigate further, as shown in the historical resolution.
+
+### id=32 judge_score=1.0 escalate=True
+CUSTOMER: @SpotifyCares I just paid to keep premium &amp; I can't log into Facebook right now is there a way I can stream?
+AGENT_REPLY: Hey! We'd love to help you get back to streaming. Can you send us a DM with your account's email address or Spotify username? We'll take a look backstage.
+HISTORICAL: @441420 Hey there, that's not cool! Could you DM us your account's username or email address? We'll take a look backstage /GU https://t.co/ldFdZRiNAt
+JUDGE_RATIONALE: While the reasoning for escalation is correct, the agent failed to provide any public response or instructions to the customer, leaving them without a next step or acknowledgment.
+
+### id=3 judge_score=1.0 escalate=True
+CUSTOMER: @SpotifyCares Just got this email and I didn't make the change- I can't even log into my account anymore. What can I do to fix it? https://t.co/ltjO4jOm5E
+AGENT_REPLY: Hey! We're sorry to hear about that. Send us a DM with your account's email address or username, and we'll take a look into this right away.
+HISTORICAL: @240485 Hey Gurasees! We'd suggest deleting your tweet for security purposes, as it contains your personal info. Can you send it over DM instead? We'll be waiting /AN https://t.co/ldFdZR1cbT
+JUDGE_RATIONALE: While the decision to escalate for a compromised account is correct, the agent failed to provide a public reply to guide the user to a secure DM channel or advise them to delete potentially sensitive information as shown in the reference.
+
+### id=41 judge_score=nan escalate=True
+CUSTOMER: @SpotifyCares Help! I am unable to login and I receive no email with a password reset. Have had an account for... 5+ years?! On autopay, no emails about changes, no info.
+AGENT_REPLY: Hey! We'd love to help you get back into your account. Can you send us a DM with the email address linked to your account and your username? We'll take a look backstage to see what's happening. https://t.co/ldFdZRiNAt /BX
+HISTORICAL: @277065 Hey there! Can you DM us your account's email address and username? We'll take a look backstage /AL https://t.co/ldFdZRiNAt
+JUDGE_RATIONALE: ERROR: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+
+### id=61 judge_score=nan escalate=False
+CUSTOMER: @SpotifyCares Hey! I need immediate help with local files! I can sync the songs to my android device, but not to my iPad. I'm on windows 10. Thank you! :)
+AGENT_REPLY: Hey! We're here to help. Make sure both your PC and iPad are connected to the exact same Wi-Fi network, and check if Spotify is allowed through your Windows firewall. You can also check out the troubleshooting steps here: https://spoti.fi/LocalFiles. Keep us posted on how it goes!
+HISTORICAL: @236462 Hi Jimmy, help's here! can you let us know your iPad's operating system and Spotify version? We'll see what we can suggest /GT
+JUDGE_RATIONALE: ERROR: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+
+### id=48 judge_score=nan escalate=False
+CUSTOMER: @SpotifyCares Hey! Could you help me find info about Spotify internships? Previous experience includes: Roc Nation and Universal Music Group
+AGENT_REPLY: Hey! It's awesome that you're interested in joining the band. For all info on our internship programs and open roles, head on over to spotifyjobs.com. Best of luck! /GR
+HISTORICAL: @268534 Hey Nicholas! There's a Spotify for Students section at https://t.co/c1Z94oBFOl. Any info about internships will be there 🙂 /NG
+JUDGE_RATIONALE: ERROR: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+
+### id=31 judge_score=2.0 escalate=True
+CUSTOMER: @SpotifyCares hi, my dad can't seem to activate the Family invitation I've sent. Below error appears after filling up info.. Help! https://t.co/6rURQDPnLF
+AGENT_REPLY: Hey! We'd love to help get your dad set up on your Family plan. Could you send us a DM with the email addresses for both accounts? We'll check things out /RH
+HISTORICAL: @554790 Hey there! We've come to the rescue. Could you DM us your account's email address/username? We'll check behind the scenes /RE https://t.co/ldFdZRiNAt
+JUDGE_RATIONALE: Rather than escalating silently without replying, the agent should have sent a standard public tweet asking the user to DM their account details for investigation.
+
+### id=23 judge_score=1.0 escalate=True
+CUSTOMER: @SpotifyCares - Why can't I activate my student account?! It worked last year and now you're saying you don't support my business college? The fact the cost went up without you telling me is pretty shoddy too. Helpful to students? more like #rinsingstudents #unhappy #poorstudent
+AGENT_REPLY: Hey! We'd love to check what's happening with your student eligibility and account. Could you send us a DM with your account's email address? We'll take a look backstage for you.
+HISTORICAL: @690210 Hey! Can you DM us your account's email address? We'll see what we can suggest /CB https://t.co/ldFdZRiNAt
+JUDGE_RATIONALE: The agent failed to provide any response to the customer, which is an incorrect handling of a public complaint that requires a transition to DMs for resolution.
+
+### id=30 judge_score=2.0 escalate=True
+CUSTOMER: @SpotifyCares I deleted my Facebook account and I can no longer login. When I go to submit a help form, it says to login, but I cannot because I refuse to reactivate my Facebook. I tried resetting my password with the email associated w/ account but can't without Facebook. Help ?
+AGENT_REPLY: Hey! We can definitely help you get access back into your account. Send us a quick DM with the email address associated with your account, and we'll take it from there!
+HISTORICAL: @198143 Hi there! Can you DM us your account's email address or username? We'll take a look backstage /NQ https://t.co/ldFdZR1cbT
+JUDGE_RATIONALE: While account recovery requires private verification, the agent should have replied directing the user to DM their details rather than silently escalating without responding.
+
+### id=57 judge_score=nan escalate=False
+CUSTOMER: I. Want. Spotify. To. Be. In. Georgia. @115888
+AGENT_REPLY: Hey! We don't have any info regarding a launch in Georgia just yet, but rest assured we're launching in new countries regularly. You can keep an eye on our newsroom for any future updates! /GC
+HISTORICAL: @228088 Hey there! We can't make promises, but we're launching in new countries as often as possible. You can sign up to be first to hear: https://t.co/XDwWzj7cLP. Let us know if you have more questions 🙂 /MS
+JUDGE_RATIONALE: ERROR: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+
+### id=47 judge_score=nan escalate=False
+CUSTOMER: @spotifycares why do i have a 3333 offline song limit on my spotify?
+AGENT_REPLY: Hey! Right now, there's a download limit of 3,333 tracks on up to 3 separate devices. We have more info on that here: https://t.co/WDXVuJV0dh /RM
+HISTORICAL: @150787 Hey there! We currently have an offline limit of 3,333 songs per device due to licensing. We have more info here: https://t.co/NakiNgZcST /AG
+JUDGE_RATIONALE: ERROR: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+
+### id=19 judge_score=2.0 escalate=True
+CUSTOMER: @SpotifyCares I am trying to reset my password after getting an email from you, and every time I submit the form, I get this "The CSRF token is invalid. Please try to resubmit the form." The email was sent at 6:34 the AM.
+AGENT_REPLY: Hey! Help's here. Could you shoot us a DM with your account's username and email address? We'll take a look backstage /VK https://t.co/ldFdZRiNAt
+HISTORICAL: @135364 Hey Josh! Can you DM us your account's email address? We'll see what we can suggest /SJ https://t.co/ldFdZRiNAt
+JUDGE_RATIONALE: Rather than silently escalating, the agent should have replied to the customer with a DM link asking for their account's email address to troubleshoot the CSRF error.
+
+### id=68 judge_score=nan escalate=False
+CUSTOMER: @115888 is there any way to download more songs after reaching the download limit without getting rid of any pre existing songs?
+AGENT_REPLY: Hey! Right now, there's a limit to how many songs you can have downloaded on a single device. To download more, you'd need to remove some of your current downloads first. You can find more info on how this works here: https://t.co/WpO5bMgnzC /DN
+HISTORICAL: @495530 1: Hi! We're afraid there's currently a limit of 3,333 downloaded songs per device (maximum of 3 devices). Not to worry. You can show... /AU
+JUDGE_RATIONALE: ERROR: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.7-flash\nPlease retry in 54.051523859s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.7-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '54s'}]}}
+
