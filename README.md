@@ -87,6 +87,45 @@ examples into a CSV with a blank `human_overall_quality` column; fill it in by h
 `python src/judge_calibration.py --score-file data/eval/judge_calibration_sample.csv` reports
 Spearman correlation and quadratic-weighted Cohen's kappa between the judge and the human.
 
+## Where to find results and data
+
+**Results & write-up**
+
+| Path | What's in it |
+|---|---|
+| `report/report.md` | Full write-up: problem framing, results vs. baselines, 5 real failure examples, "what's misleading about my headline number," next steps |
+| `report/decision_log.md` | 20 non-obvious decisions made, with why |
+| `data/eval/summary_metrics.csv` | The headline numbers table (accuracy, macro-F1, escalation P/R/F1, reply-similarity) for all 3 systems |
+
+**Golden evaluation set (the hand-labeled ground truth)**
+
+| Path | What's in it |
+|---|---|
+| `data/eval/golden_set.csv` | 214 hand-labeled examples: message, `intent_gold`, `escalate_gold`, reasoning, historical reply |
+| `data/eval/README.md` | How it was sampled and labeled |
+
+**Per-system outputs** (one row per golden-set example)
+
+| Path | What's in it |
+|---|---|
+| `data/eval/predictions_{trivial,simple,agent}.csv` | Raw predictions per system |
+| `data/eval/scored_{trivial,simple,agent}.csv` | Predictions merged with gold labels + automated similarity scores -- the source for failure-analysis examples |
+| `data/eval/judge_{trivial,agent}.csv` | LLM-judge 1-5 scores per reply (no `judge_simple.csv` -- that run never got any quota, see report Section 3) |
+| `data/eval/judge_calibration_sample.csv` | 25 examples with both my hand-scores and the judge's scores side by side -- the raw evidence behind the reported Spearman/kappa numbers |
+
+**Data pipeline intermediates**
+
+| Path | What's in it |
+|---|---|
+| `data/processed/corpus.csv` | 24,745 rows used for retrieval grounding + simple-baseline training (checked in) |
+| `data/processed/eval_pool.csv` | 3,000-row held-out pool the golden set was sampled from (checked in) |
+| `data/processed/golden_candidates.csv` | The 214 pre-label candidates with keyword-bucket tags (checked in) |
+| `data/processed/SpotifyCares_threads.jsonl`, `spotify_examples.csv` | Larger intermediates (22MB/18MB) -- gitignored, regenerable via `build_threads.py` + `prepare_examples.py` |
+| `data/raw/` | Raw 3M-tweet Kaggle download -- gitignored, not needed to reproduce results |
+
+Start with `report/report.md` for the narrative, `data/eval/summary_metrics.csv` for the raw
+numbers, and `data/eval/golden_set.csv` to spot-check the ground truth yourself.
+
 ## Repo layout
 
 ```
